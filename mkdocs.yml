@@ -1,8 +1,8 @@
 site_name: Game of Thrones Scripts
 site_description: Bilingual (EN/CN) Game of Thrones scripts organized by season and episode.
-site_url: https://codefarmer2024.github.io/Game-of-Thrones-/
-repo_url: https://github.com/CodeFarmer2024/Game-of-Thrones-
-repo_name: CodeFarmer2024/Game-of-Thrones-
+site_url: https://codefarmer2024.github.io/Game-of-Thrones/
+repo_url: https://github.com/CodeFarmer2024/Game-of-Thrones
+repo_name: CodeFarmer2024/Game-of-Thrones
 edit_uri: edit/main/
 theme:
   name: material

@@ -1,13 +1,13 @@
 # Game of Thrones Scripts (EN/CN)
 
-[![Deploy MkDocs to GitHub Pages](https://github.com/CodeFarmer2024/Game-of-Thrones-/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/CodeFarmer2024/Game-of-Thrones-/actions/workflows/gh-pages.yml)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://codefarmer2024.github.io/Game-of-Thrones-/)
+[![Deploy MkDocs to GitHub Pages](https://github.com/CodeFarmer2024/Game-of-Thrones/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/CodeFarmer2024/Game-of-Thrones/actions/workflows/gh-pages.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://codefarmer2024.github.io/Game-of-Thrones/)
 
 Bilingual (English/Chinese) Game of Thrones scripts organized by season and episode.
 
 ## Site
 
-Live site: https://codefarmer2024.github.io/Game-of-Thrones-/
+Live site: https://codefarmer2024.github.io/Game-of-Thrones/
 
 This project publishes a static site via GitHub Pages with one page per season and episode.
 

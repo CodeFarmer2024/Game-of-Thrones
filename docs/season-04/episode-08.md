@@ -1,0 +1,2863 @@
+# S04E08
+
+<table>
+<colgroup>
+<col style="width: 64%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2" style="text-align: center;">Game.Of.Thrones.S04E08</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Here we are.</td>
+<td>到了</td>
+</tr>
+<tr>
+<td>Ready?</td>
+<td>好了吗</td>
+</tr>
+<tr>
+<td>"The Rains of Castamere."</td>
+<td>《卡斯特梅的雨季》</td>
+</tr>
+<tr>
+<td>You fucking deaf?</td>
+<td>你他妈聋的吗</td>
+</tr>
+<tr>
+<td>Same wrong guess every fucking time.</td>
+<td>每次都猜错还错得一样</td>
+</tr>
+<tr>
+<td>Listen, you cunt.</td>
+<td>听仔细了 蠢货</td>
+</tr>
+<tr>
+<td>"The Bear and the Maiden Fair."</td>
+<td>《狗熊和美少女》</td>
+</tr>
+<tr>
+<td>There's a man with an ear.</td>
+<td>终于有个长耳朵的男人了</td>
+</tr>
+<tr>
+<td>Too bad you got a hangnail for a cock.</td>
+<td>可惜你的鸡鸡小得像根刺儿</td>
+</tr>
+<tr>
+<td>First time I saw you with your breeches down,</td>
+<td>头一次见你脱裤子的时候</td>
+</tr>
+<tr>
+<td>I thought you were a eunuch.</td>
+<td>我还以为你是个太监呢</td>
+</tr>
+<tr>
+<td>You've seen it, girls.</td>
+<td>你们见过的 姑娘们</td>
+</tr>
+<tr>
+<td>Like a baby snail peeking out of his shell.</td>
+<td>像只探头缩脑的小蜗牛</td>
+</tr>
+<tr>
+<td>Your baby was crying this morning.</td>
+<td>今天早上你孩子哭闹</td>
+</tr>
+<tr>
+<td>Woke me up.</td>
+<td>吵醒我了</td>
+</tr>
+<tr>
+<td>You hear me?</td>
+<td>你听到没有</td>
+</tr>
+<tr>
+<td>Yes.</td>
+<td>听到了</td>
+</tr>
+<tr>
+<td>Well, got anything to say?</td>
+<td>你有什么要说的吗</td>
+</tr>
+<tr>
+<td>I'm sorry he woke you up.</td>
+<td>抱歉他吵醒你了</td>
+</tr>
+<tr>
+<td>I don't care if you're sorry.</td>
+<td>我才不管你抱歉不抱歉</td>
+</tr>
+<tr>
+<td>Keep that baby quiet</td>
+<td>让那孩子安静点儿</td>
+</tr>
+<tr>
+<td>or I will.</td>
+<td>否则我自己动手</td>
+</tr>
+<tr>
+<td>Don't you ever touch him.</td>
+<td>不许你碰他</td>
+</tr>
+<tr>
+<td>Little wildling bitch.</td>
+<td>野人小婊子</td>
+</tr>
+<tr>
+<td>You should have stayed with your own kind.</td>
+<td>你该跟你的同类在一起</td>
+</tr>
+<tr>
+<td>You listening to me?</td>
+<td>你听见没有</td>
+</tr>
+<tr>
+<td>-Shut your mouth. -What?</td>
+<td>-闭上你的嘴 -什么</td>
+</tr>
+<tr>
+<td>It's just an owl, you dumb bitch.</td>
+<td>不过是只猫头鹰 你这蠢婊子</td>
+</tr>
+<tr>
+<td>No, it's not.</td>
+<td>不 不是</td>
+</tr>
+<tr>
+<td>I should never have left her there.</td>
+<td>我不该把她留在那儿</td>
+</tr>
+<tr>
+<td>-You couldn't have known. -Of course, I could've known.</td>
+<td>-你也不能未卜先知 -我当然应该知道</td>
+</tr>
+<tr>
+<td>They've been raiding the villages close by.</td>
+<td>他们一直在袭击周围的村庄</td>
+</tr>
+<tr>
+<td>And we just cower in here, while they slaughter our brothers.</td>
+<td>兄弟们被杀害 我们却缩在这里</td>
+</tr>
+<tr>
+<td>Our brothers had orders to stay at Castle Black.</td>
+<td>我们的兄弟奉命守在黑城堡</td>
+</tr>
+<tr>
+<td>So it's all right, then?</td>
+<td>那就无所谓了</td>
+</tr>
+<tr>
+<td>Black Jack and Kegs and Mully chopped to pieces,</td>
+<td>黑杰克 木桶和穆利被砍成碎片</td>
+</tr>
+<tr>
+<td>'cause they broke the rules?</td>
+<td>是因为他们违纪在先</td>
+</tr>
+<tr>
+<td>I didn't say it was all right.</td>
+<td>我没说无所谓</td>
+</tr>
+<tr>
+<td>I'm saying they shouldn't have been there.</td>
+<td>我说的是他们不该在那里</td>
+</tr>
+<tr>
+<td>We're pledged to guard the realms of men.</td>
+<td>我们誓言守护王国</td>
+</tr>
+<tr>
+<td>She's dead because of me.</td>
+<td>她是因为我才死的</td>
+</tr>
+<tr>
+<td>We can't even guard Mole's Town.</td>
+<td>我们连鼹鼠村都守护不了</td>
+</tr>
+<tr>
+<td>We can't go after them. You know that.</td>
+<td>我们不能追击 你也清楚</td>
+</tr>
+<tr>
+<td>It's what they want.</td>
+<td>那样正中他们下怀</td>
+</tr>
+<tr>
+<td>And little Sam.</td>
+<td>小山姆</td>
+</tr>
+<tr>
+<td>As if I cut their throats myself.</td>
+<td>简直是我亲手杀了他们</td>
+</tr>
+<tr>
+<td>Maybe she managed to hide herself.</td>
+<td>或许她躲起来了呢</td>
+</tr>
+<tr>
+<td>I thought all of you was dead.</td>
+<td>之前我还以为你们全死了</td>
+</tr>
+<tr>
+<td>You went north with Mormont and no one came back.</td>
+<td>你们随莫尔蒙北上 一个都没回来</td>
+</tr>
+<tr>
+<td>Not for ages.</td>
+<td>过了那么久</td>
+</tr>
+<tr>
+<td>But then you did.</td>
+<td>可是你们回来了</td>
+</tr>
+<tr>
+<td>She survived Craster</td>
+<td>她打卡斯特身边活过来的</td>
+</tr>
+<tr>
+<td>and he was the worst shit I've ever met.</td>
+<td>那可是我见过的最操蛋的家伙</td>
+</tr>
+<tr>
+<td>She survived the long march to the Wall.</td>
+<td>一路走回长城 她也挺过来了</td>
+</tr>
+<tr>
+<td>She survived a white walker, for fuck's sake.</td>
+<td>她还躲过一只异鬼 操他娘的</td>
+</tr>
+<tr>
+<td>She might have got out.</td>
+<td>她或许逃过此劫了</td>
+</tr>
+<tr>
+<td>She might have.</td>
+<td>或许吧</td>
+</tr>
+<tr>
+<td>If they hit Mole's Town,</td>
+<td>既然他们袭击鼹鼠村</td>
+</tr>
+<tr>
+<td>then we're next.</td>
+<td>下一步就是这里</td>
+</tr>
+<tr>
+<td>Mance and his army must be close.</td>
+<td>曼斯的大军一定很近了</td>
+</tr>
+<tr>
+<td>100,000 of them.</td>
+<td>他们有十万人</td>
+</tr>
+<tr>
+<td>And there's what, 105 of us left?</td>
+<td>我们还剩多少人 一百零五</td>
+</tr>
+<tr>
+<td>You counting Black Jack, Kegs, and Mully?</td>
+<td>你算上黑杰克 木桶和穆利了吧</td>
+</tr>
+<tr>
+<td>How do 102 men stop 100,000?</td>
+<td>一百零二人怎么抵挡十万大军</td>
+</tr>
+<tr>
+<td>Whoever dies last, be a good lad</td>
+<td>甭管谁死在最后 发发慈悲</td>
+</tr>
+<tr>
+<td>and burn the rest of us.</td>
+<td>把我们全烧了</td>
+</tr>
+<tr>
+<td>Once I'm done with this world,</td>
+<td>好容易混个一了百了</td>
+</tr>
+<tr>
+<td>I don't want to come back.</td>
+<td>我可不想再回来</td>
+</tr>
+<tr>
+<td>You think he was spying on you?</td>
+<td>你说他在监视你</td>
+</tr>
+<tr>
+<td>No, not spying.</td>
+<td>不 不是监视</td>
+</tr>
+<tr>
+<td>The Dothraki think outsiders are ridiculous taking shame in the naked body.</td>
+<td>多斯拉克人认为外族人羞于裸露实在荒谬可笑</td>
+</tr>
+<tr>
+<td>They make love under the stars for the whole khalasar to see.</td>
+<td>他们在星空下做爱 让整个卡拉萨见证</td>
+</tr>
+<tr>
+<td>Yes, Your Grace.</td>
+<td>是的 陛下</td>
+</tr>
+<tr>
+<td>But you are not Dothraki.</td>
+<td>可你不是多斯拉克人</td>
+</tr>
+<tr>
+<td>No.</td>
+<td>不是</td>
+</tr>
+<tr>
+<td>Well, I don't see why it matters.</td>
+<td>我觉得这没什么大不了</td>
+</tr>
+<tr>
+<td>Grey Worm isn't interested.</td>
+<td>灰虫子又没兴趣</td>
+</tr>
+<tr>
+<td>None of the Unsullied care what's under our clothes.</td>
+<td>无垢者并不喜欢我们掩盖在衣裙底下的身体</td>
+</tr>
+<tr>
+<td>He was interested.</td>
+<td>他有兴趣</td>
+</tr>
+<tr>
+<td>What?</td>
+<td>什么</td>
+</tr>
+<tr>
+<td>I believe he was interested.</td>
+<td>我想他是有兴趣的</td>
+</tr>
+<tr>
+<td>When the slavers castrate the boys,</td>
+<td>善主们阉割男孩</td>
+</tr>
+<tr>
+<td>do they take all of it?</td>
+<td>是全部割掉吗</td>
+</tr>
+<tr>
+<td>All of it?</td>
+<td>全部</td>
+</tr>
+<tr>
+<td>The,</td>
+<td>就是</td>
+</tr>
+<tr>
+<td>the pillar and the stones.</td>
+<td>鸡和蛋啊</td>
+</tr>
+<tr>
+<td>I don't know, Your Grace.</td>
+<td>我不知道 陛下</td>
+</tr>
+<tr>
+<td>Haven't you ever wondered?</td>
+<td>你就没想过吗</td>
+</tr>
+<tr>
+<td>Yes, Your Grace.</td>
+<td>想过 陛下</td>
+</tr>
+<tr>
+<td>Missandei.</td>
+<td>弥桑黛</td>
+</tr>
+<tr>
+<td>The lessons you give I in common tongue,</td>
+<td>你教我学习通用语</td>
+</tr>
+<tr>
+<td>these are precious to I.</td>
+<td>这对自己很珍贵</td>
+</tr>
+<tr>
+<td>-To me. -To me.</td>
+<td>-对我 -对我</td>
+</tr>
+<tr>
+<td>I don't remember teaching you the word precious.</td>
+<td>我不记得教过你"珍贵"这个词</td>
+</tr>
+<tr>
+<td>Jorah the Andal, he teaches I,</td>
+<td>安达尔人乔拉 他教给自己</td>
+</tr>
+<tr>
+<td>he teaches me this word.</td>
+<td>他教给我这个词</td>
+</tr>
+<tr>
+<td>Do you remember the name you were given at birth?</td>
+<td>你还记得出生时的名字吗</td>
+</tr>
+<tr>
+<td>I remember nothing.</td>
+<td>我什么都不记得</td>
+</tr>
+<tr>
+<td>Only Unsullied.</td>
+<td>只有无垢者</td>
+</tr>
+<tr>
+<td>When they cut you,</td>
+<td>他们阉割你的时候</td>
+</tr>
+<tr>
+<td>do you remember that?</td>
+<td>你记得吗</td>
+</tr>
+<tr>
+<td>I'm sorry.</td>
+<td>对不起</td>
+</tr>
+<tr>
+<td>I'm sorry they did that to you.</td>
+<td>他们那样对你 我很抱歉</td>
+</tr>
+<tr>
+<td>Why? Why sorry?</td>
+<td>为什么 为什么抱歉</td>
+</tr>
+<tr>
+<td>It's a terrible thing to do to a boy.</td>
+<td>因为那样对一个男孩是很可怕的事</td>
+</tr>
+<tr>
+<td>If the masters never cut me,</td>
+<td>如果善主们没有阉割我</td>
+</tr>
+<tr>
+<td>I never am Unsullied.</td>
+<td>我就不会是无垢者</td>
+</tr>
+<tr>
+<td>I never stand in the Plaza of Pride</td>
+<td>风暴降生丹妮莉丝下令杀死善主那天</td>
+</tr>
+<tr>
+<td>when Daenerys Stormborn orders us to kill the masters.</td>
+<td>我也不会站在骄傲广场</td>
+</tr>
+<tr>
+<td>I never am chosen to lead the Unsullied.</td>
+<td>我不会被选出来领导无垢者</td>
+</tr>
+<tr>
+<td>I never meet Missandei from the island of Naath.</td>
+<td>我也见不到纳斯岛的弥桑黛</td>
+</tr>
+<tr>
+<td>I am sorry,</td>
+<td>对不起</td>
+</tr>
+<tr>
+<td>for today.</td>
+<td>今天的事</td>
+</tr>
+<tr>
+<td>I am sorry.</td>
+<td>对不起</td>
+</tr>
+<tr>
+<td>Kraken.</td>
+<td>海怪</td>
+</tr>
+<tr>
+<td>Strong as long as they're in the sea.</td>
+<td>待在海里才是王者</td>
+</tr>
+<tr>
+<td>When you take them out of the water,</td>
+<td>一旦离开水</td>
+</tr>
+<tr>
+<td>no bones.</td>
+<td>没有骨头</td>
+</tr>
+<tr>
+<td>They collapse under their proud weight</td>
+<td>他们就会被自己的体重压垮</td>
+</tr>
+<tr>
+<td>and slump into a heap of nothing.</td>
+<td>变成一摊没用的烂泥</td>
+</tr>
+<tr>
+<td>You'd think they know that.</td>
+<td>你以为他们有自知之明</td>
+</tr>
+<tr>
+<td>Unfortunately, they're not very bright.</td>
+<td>太不幸啦 他们脑子不好使</td>
+</tr>
+<tr>
+<td>What do you tell them?</td>
+<td>你该对他们说什么</td>
+</tr>
+<tr>
+<td>I'm Theon Greyjoy,</td>
+<td>我是席恩·葛雷乔伊</td>
+</tr>
+<tr>
+<td>son of Balon, heir to the Iron Islands.</td>
+<td>巴隆之子 铁群岛的继承人</td>
+</tr>
+<tr>
+<td>-And what are you really? -I'm Reek.</td>
+<td>-其实你是什么呢 -我是臭佬</td>
+</tr>
+<tr>
+<td>Are you sure?</td>
+<td>你确定吗</td>
+</tr>
+<tr>
+<td>You do look very much like a lord.</td>
+<td>你看起来像个货真价实的大人</td>
+</tr>
+<tr>
+<td>Formidable, proud.</td>
+<td>威严又尊贵</td>
+</tr>
+<tr>
+<td>I'm Reek.</td>
+<td>我是臭佬</td>
+</tr>
+<tr>
+<td>Until when?</td>
+<td>直到何时</td>
+</tr>
+<tr>
+<td>Always.</td>
+<td>直到永远</td>
+</tr>
+<tr>
+<td>-Forever. -That's right.</td>
+<td>-永生永世 -没错</td>
+</tr>
+<tr>
+<td>Until you're rotting in the ground.</td>
+<td>直到你在泥土中腐烂</td>
+</tr>
+<tr>
+<td>Remember what you are and what you're not.</td>
+<td>要记得你是什么 不是什么</td>
+</tr>
+<tr>
+<td>Bring me Moat Cailin.</td>
+<td>给我拿下卡林湾</td>
+</tr>
+<tr>
+<td>No closer.</td>
+<td>站住</td>
+</tr>
+<tr>
+<td>Who are you?</td>
+<td>来者何人</td>
+</tr>
+<tr>
+<td>I'm Kenning,</td>
+<td>我是肯宁</td>
+</tr>
+<tr>
+<td>commander of this garrison.</td>
+<td>驻军指挥官</td>
+</tr>
+<tr>
+<td>-And you say you're Theon Greyjoy? -Yes.</td>
+<td>-你说你是席恩·葛雷乔伊 -是的</td>
+</tr>
+<tr>
+<td>And why should I believe that?</td>
+<td>我凭什么相信你</td>
+</tr>
+<tr>
+<td>I was born on Pyke to Balon Greyjoy.</td>
+<td>我生于派克岛 父亲是巴隆·葛雷乔伊</td>
+</tr>
+<tr>
+<td>His third and last living son.</td>
+<td>我是他的三子 也是唯一幸存的儿子</td>
+</tr>
+<tr>
+<td>I am your prince.</td>
+<td>我是你们的王子</td>
+</tr>
+<tr>
+<td>I swear it by the Drowned God.</td>
+<td>我向淹神发誓</td>
+</tr>
+<tr>
+<td>What is dead may never die.</td>
+<td>逝者不死</td>
+</tr>
+<tr>
+<td>What is dead may never die.</td>
+<td>逝者不死</td>
+</tr>
+<tr>
+<td>And if you were my prince,</td>
+<td>如果你是我的王子</td>
+</tr>
+<tr>
+<td>why are you marching with a Bolton army?</td>
+<td>为何与波顿军为伍</td>
+</tr>
+<tr>
+<td>Lord Bolton took me captive after Winterfell.</td>
+<td>波顿大人在临冬城俘虏了我</td>
+</tr>
+<tr>
+<td>He sent me to treat with you in good faith as your fellow ironborn.</td>
+<td>因你我同是铁种 他派我来诚心讲和</td>
+</tr>
+<tr>
+<td>And what does Lord Bolton want?</td>
+<td>波顿大人想要什么</td>
+</tr>
+<tr>
+<td>You are fading from sickness,</td>
+<td>你们受伤病折磨</td>
+</tr>
+<tr>
+<td>you are badly outnumbered,</td>
+<td>寡不敌众</td>
+</tr>
+<tr>
+<td>and you're hundreds of miles from the sea.</td>
+<td>而且你们距离大海数百哩之遥</td>
+</tr>
+<tr>
+<td>Lord Bolton implores you to protect your men</td>
+<td>波顿大人恳请你为手下着想</td>
+</tr>
+<tr>
+<td>and abandon this fortress you can no longer hold.</td>
+<td>放弃这座久守不利的要塞</td>
+</tr>
+<tr>
+<td>Do this, and he will be just and fair with you</td>
+<td>若这样做 他必将以礼相待</td>
+</tr>
+<tr>
+<td>as he has been with me.</td>
+<td>正如他待我一样</td>
+</tr>
+<tr>
+<td>The Boltons will give you safe passage to the Stony Shore.</td>
+<td>波顿家族答应放你们平安返回磐石海岸</td>
+</tr>
+<tr>
+<td>He wants us to surrender?</td>
+<td>他要让我们投降吗</td>
+</tr>
+<tr>
+<td>My own father, your king,</td>
+<td>我的父亲 你的国王</td>
+</tr>
+<tr>
+<td>surrendered years ago to Robert Baratheon.</td>
+<td>许多年前曾向劳勃·拜拉席恩投降</td>
+</tr>
+<tr>
+<td>I watched him bend the knee.</td>
+<td>我亲眼见他屈膝下跪</td>
+</tr>
+<tr>
+<td>There was no shame there.</td>
+<td>投降并不可耻</td>
+</tr>
+<tr>
+<td>He fought with honor, as did you.</td>
+<td>他英勇战斗过 你也一样</td>
+</tr>
+<tr>
+<td>"No shame." "Fought with honor."</td>
+<td>"不可耻" "英勇战斗过"</td>
+</tr>
+<tr>
+<td>I'm sorry, I didn't hear.</td>
+<td>抱歉 我没听清</td>
+</tr>
+<tr>
+<td>"No shame." "Fought with honor."</td>
+<td>"不可耻" "英勇战斗过"</td>
+</tr>
+<tr>
+<td>Only a whipped dog would speak this way.</td>
+<td>只有听话的狗儿才讲得出这种话</td>
+</tr>
+<tr>
+<td>Or a woman.</td>
+<td>或者是娘们</td>
+</tr>
+<tr>
+<td>Are you a woman, boy?</td>
+<td>你是娘们吗 小子</td>
+</tr>
+<tr>
+<td>You don't know.</td>
+<td>你不知道</td>
+</tr>
+<tr>
+<td>The ironborn will not surrender.</td>
+<td>铁种不会投降</td>
+</tr>
+<tr>
+<td>Reek. My name is Reek.</td>
+<td>臭佬 我叫臭佬</td>
+</tr>
+<tr>
+<td>You go tell your master that,</td>
+<td>把这话带给你主子</td>
+</tr>
+<tr>
+<td>Theon Greyjoy, or whoever the fuck you are.</td>
+<td>席恩·葛雷乔伊 管你他妈的是谁</td>
+</tr>
+<tr>
+<td>My name is Reek.</td>
+<td>我叫臭佬</td>
+</tr>
+<tr>
+<td>What in the hell are you muttering?</td>
+<td>你嘀嘀咕咕地念叨什么</td>
+</tr>
+<tr>
+<td>I'm Reek.</td>
+<td>我是臭佬</td>
+</tr>
+<tr>
+<td>Reek.</td>
+<td>臭佬</td>
+</tr>
+<tr>
+<td>If we yield, we live?</td>
+<td>投降就能活命吗</td>
+</tr>
+<tr>
+<td>Is that what it says on this paper here?</td>
+<td>纸上是这样写的吗</td>
+</tr>
+<tr>
+<td>Yes. Have your men raise the white flag and open the gates.</td>
+<td>是的 叫人升起白旗 打开城门</td>
+</tr>
+<tr>
+<td>You're going home.</td>
+<td>你们就要回家了</td>
+</tr>
+<tr>
+<td>You didn't really think I'd let them go, did you?</td>
+<td>你不会真以为我会放他们走吧</td>
+</tr>
+<tr>
+<td>It's fallen out of fashion, flaying.</td>
+<td>现在不流行剥皮了</td>
+</tr>
+<tr>
+<td>Sad, but true.</td>
+<td>很可惜 却是事实</td>
+</tr>
+<tr>
+<td>Traditions are important.</td>
+<td>传统很重要</td>
+</tr>
+<tr>
+<td>Where are we without our history?</td>
+<td>没有历史 我们容身何地</td>
+</tr>
+<tr>
+<td>-Eh? -Yes, my lord.</td>
+<td>-对吗 -对 大人</td>
+</tr>
+<tr>
+<td>Will we go home now?</td>
+<td>我们能回家了吗</td>
+</tr>
+<tr>
+<td>I believe we will.</td>
+<td>我们可以回了</td>
+</tr>
+<tr>
+<td>To our new home.</td>
+<td>回我们的新家</td>
+</tr>
+<tr>
+<td>You have foreign blood, don't you, Baelish?</td>
+<td>你有外邦血统 对吗 贝里席</td>
+</tr>
+<tr>
+<td>A great-grandfather from Braavos, yes.</td>
+<td>我的曾祖父来自布拉佛斯 是的</td>
+</tr>
+<tr>
+<td>I suppose all of our ancestors came from somewhere else originally.</td>
+<td>追根溯源 恐怕所有人的祖先都是外邦人</td>
+</tr>
+<tr>
+<td>Our forebearers settled the Vale thousands of years ago.</td>
+<td>我们的祖先几千年前就在艾林谷定居</td>
+</tr>
+<tr>
+<td>We've fought off invaders ever since.</td>
+<td>从那时起 我们便拒外敌于门外</td>
+</tr>
+<tr>
+<td>The beauty of the Vale is matched only</td>
+<td>艾林谷的绝境之美</td>
+</tr>
+<tr>
+<td>by the nobility of its great families.</td>
+<td>与各大家族们的高贵气质相得益彰</td>
+</tr>
+<tr>
+<td>Lady Arryn often told me</td>
+<td>艾林夫人常对我说</td>
+</tr>
+<tr>
+<td>that you were her rock, lord Royce.</td>
+<td>您是她的岩石 罗伊斯大人</td>
+</tr>
+<tr>
+<td>She told me nothing about you, Baelish.</td>
+<td>她从没对我提过你 贝里席</td>
+</tr>
+<tr>
+<td>But I didn't need to hear from her.</td>
+<td>但不用她说 我也对你有所耳闻</td>
+</tr>
+<tr>
+<td>Moneylender. Whoremonger.</td>
+<td>放债者 皮条客</td>
+</tr>
+<tr>
+<td>You've been licking Tywin Lannister's boots so long,</td>
+<td>你舔了泰温·兰尼斯特的靴子这么久</td>
+</tr>
+<tr>
+<td>-it's a wonder your tongue's not black. -My lord.</td>
+<td>-舌头竟然没有变黑 -大人</td>
+</tr>
+<tr>
+<td>And when Jon Arryn named you Master of Coin,</td>
+<td>当琼恩·艾林任命你为财政大臣时</td>
+</tr>
+<tr>
+<td>no one cared.</td>
+<td>没人在乎</td>
+</tr>
+<tr>
+<td>Always been a grubby job. Why not let a grubby man do it?</td>
+<td>那差事向来脏手 给脏人去做又有何妨</td>
+</tr>
+<tr>
+<td>But when I heard you were lurking here,</td>
+<td>可当我听说你潜入谷地</td>
+</tr>
+<tr>
+<td>fawning over the Lady Arryn.</td>
+<td>讨好起艾林夫人</td>
+</tr>
+<tr>
+<td>Lady Arryn invited me.</td>
+<td>是艾林夫人邀请我来的</td>
+</tr>
+<tr>
+<td>She and I have been close since childhood.</td>
+<td>我们从小就很亲近</td>
+</tr>
+<tr>
+<td>Yes, we all know how close you were.</td>
+<td>是的 我们都知道你们有多亲</td>
+</tr>
+<tr>
+<td>Lady Arryn's predilections were her own affair.</td>
+<td>艾林夫人的嗜好是她的私事</td>
+</tr>
+<tr>
+<td>Her death is our affair.</td>
+<td>她的死是公事</td>
+</tr>
+<tr>
+<td>Of course. Her suicide shattered us all.</td>
+<td>当然了 她自杀而死 令我们伤碎了心</td>
+</tr>
+<tr>
+<td>She was an odd fish. Everyone knew that.</td>
+<td>她的脾气确实古怪 人人皆知</td>
+</tr>
+<tr>
+<td>But suicide? She adored that boy of hers.</td>
+<td>可是自杀 她很爱那个儿子</td>
+</tr>
+<tr>
+<td>I don't see her abandoning him. Not by choice.</td>
+<td>我觉得她不会抛弃儿子 至少不是自愿的</td>
+</tr>
+<tr>
+<td>Strange that within days of your arrival,</td>
+<td>真奇怪 你才来几天</td>
+</tr>
+<tr>
+<td>you've married Lady Arryn and she's fallen through the Moon Door.</td>
+<td>就与艾林夫人结婚 而她跌下了月门</td>
+</tr>
+<tr>
+<td>She was always prone to melancholy.</td>
+<td>她在世时总是很忧郁</td>
+</tr>
+<tr>
+<td>My lady wasn't meant for a world as brutal as ours.</td>
+<td>我夫人与这个残酷的世界格格不入</td>
+</tr>
+<tr>
+<td>We were told there was a witness. A girl.</td>
+<td>我们听说有个目击者 是个女孩</td>
+</tr>
+<tr>
+<td>A niece of yours, I believe.</td>
+<td>是你的外甥女 对吧</td>
+</tr>
+<tr>
+<td>A girl with no learning and scattered wits.</td>
+<td>她是个无知愚昧的女孩</td>
+</tr>
+<tr>
+<td>I assure you, she would be of no help.</td>
+<td>我敢保证 她帮不上什么忙</td>
+</tr>
+<tr>
+<td>We'd like to speak with her.</td>
+<td>我们想找她谈谈</td>
+</tr>
+<tr>
+<td>-Let me fetch her. -No need.</td>
+<td>-我去找她 -不必了</td>
+</tr>
+<tr>
+<td>We prefer to hear her testimony unadulterated.</td>
+<td>我们想听到未经篡改的证词</td>
+</tr>
+<tr>
+<td>Come closer, child.</td>
+<td>过来 孩子</td>
+</tr>
+<tr>
+<td>You have nothing to fear from us or him.</td>
+<td>你不用怕我们 也不用怕他</td>
+</tr>
+<tr>
+<td>Lord Baelish here is your uncle?</td>
+<td>这位贝里席大人可是你舅舅</td>
+</tr>
+<tr>
+<td>Your name is Alayne?</td>
+<td>你名叫阿莲</td>
+</tr>
+<tr>
+<td>Perhaps you would feel more comfortable</td>
+<td>若是贝里席大人不在这里</td>
+</tr>
+<tr>
+<td>if Lord Baelish left the room.</td>
+<td>你是不是自在些</td>
+</tr>
+<tr>
+<td>-My lady. -I wasn't asking you.</td>
+<td>-夫人 -我没问你</td>
+</tr>
+<tr>
+<td>-He can stay. -Speak up, girl, you're not a damn kitchen mouse.</td>
+<td>-他可以留下 -姑娘说吧 你有眼有嘴</td>
+</tr>
+<tr>
+<td>Tell us what you saw.</td>
+<td>看见什么照实说</td>
+</tr>
+<tr>
+<td>I'm sorry, Lord Baelish.</td>
+<td>对不起 贝里席大人</td>
+</tr>
+<tr>
+<td>I have to tell the truth.</td>
+<td>我必须说实话</td>
+</tr>
+<tr>
+<td>I'll tell you everything.</td>
+<td>我全都说</td>
+</tr>
+<tr>
+<td>Please, Alayne, leave nothing out.</td>
+<td>说吧 阿莲 全都说出来</td>
+</tr>
+<tr>
+<td>My name is not Alayne.</td>
+<td>我不叫阿莲</td>
+</tr>
+<tr>
+<td>It's Sansa Stark,</td>
+<td>我是珊莎·史塔克</td>
+</tr>
+<tr>
+<td>eldest daughter of Lord Eddard Stark.</td>
+<td>艾德·史塔克公爵的长女</td>
+</tr>
+<tr>
+<td>Lord Royce, we met when you came to Winterfell.</td>
+<td>罗伊斯大人 您作客临冬城时我们谋过面</td>
+</tr>
+<tr>
+<td>You were escorting your son Ser Waymar to the Wall.</td>
+<td>当日您护送您儿子威玛爵士赴长城就任</td>
+</tr>
+<tr>
+<td>Sansa Stark?</td>
+<td>珊莎·史塔克</td>
+</tr>
+<tr>
+<td>You tell lies right to my face, you little worm?</td>
+<td>你这小人渣 敢当我面谎话连篇</td>
+</tr>
+<tr>
+<td>Lord Baelish has told many lies.</td>
+<td>贝里席大人说过很多谎话</td>
+</tr>
+<tr>
+<td>All to protect me.</td>
+<td>但都是为了保护我</td>
+</tr>
+<tr>
+<td>Since my father was executed,</td>
+<td>父亲被害之后</td>
+</tr>
+<tr>
+<td>I have been a hostage in King's Landing.</td>
+<td>我便被当作人质困在君临</td>
+</tr>
+<tr>
+<td>A plaything for Joffrey to torture or Queen Cersei to torment.</td>
+<td>成了玩物 供乔佛里折磨 任瑟曦作弄</td>
+</tr>
+<tr>
+<td>They beat me, they humiliated me,</td>
+<td>他们打我 侮辱我</td>
+</tr>
+<tr>
+<td>they married me to the Imp.</td>
+<td>还逼我嫁给小恶魔</td>
+</tr>
+<tr>
+<td>I had no friends in King's Landing,</td>
+<td>我在君临无亲无故</td>
+</tr>
+<tr>
+<td>except one.</td>
+<td>只有他</td>
+</tr>
+<tr>
+<td>He saved me.</td>
+<td>他救了我</td>
+</tr>
+<tr>
+<td>Smuggled me away when he had the chance.</td>
+<td>他趁乱带我出城</td>
+</tr>
+<tr>
+<td>He knew I'd be safe here in the Eyrie</td>
+<td>他知道我在鹰巢城</td>
+</tr>
+<tr>
+<td>with my own blood, my Aunt Lysa.</td>
+<td>有亲姨妈莱莎庇护可以安身</td>
+</tr>
+<tr>
+<td>The Lannisters have friends everywhere.</td>
+<td>兰尼斯特党羽遍天下</td>
+</tr>
+<tr>
+<td>Even the Vale.</td>
+<td>连谷地也不例外</td>
+</tr>
+<tr>
+<td>He made me swear not to tell anyone my true name.</td>
+<td>他要我发誓不道出真名</td>
+</tr>
+<tr>
+<td>Your secret is safe with us, my lady.</td>
+<td>小姐 我们会替你保守秘密</td>
+</tr>
+<tr>
+<td>Your father grew up right here in these halls.</td>
+<td>你父亲就在这堡中长大</td>
+</tr>
+<tr>
+<td>We hunted together many times.</td>
+<td>我们很多次一起狩猎</td>
+</tr>
+<tr>
+<td>He was a fine man.</td>
+<td>他是个好人</td>
+</tr>
+<tr>
+<td>Tell us what happened to your aunt, Sansa.</td>
+<td>珊莎 你姨妈到底是什么回事</td>
+</tr>
+<tr>
+<td>You knew her well, my lords, my lady.</td>
+<td>大人 夫人 诸位深知我姨妈为人</td>
+</tr>
+<tr>
+<td>You knew she was a troubled woman.</td>
+<td>你们必然知道她内心纷扰已久</td>
+</tr>
+<tr>
+<td>She always loved Lord Baelish.</td>
+<td>她一直爱慕贝里席大人</td>
+</tr>
+<tr>
+<td>She told me herself.</td>
+<td>她亲口跟我说过</td>
+</tr>
+<tr>
+<td>From the moment he arrived at the gates of Riverrun,</td>
+<td>贝里席八岁那年身背布袋 带着全部家当</td>
+</tr>
+<tr>
+<td>a boy of eight carrying everything he owned in a little sack.</td>
+<td>初到奔流城那日 姨妈便爱上了他</td>
+</tr>
+<tr>
+<td>She confessed to me she never loved Lord Arryn.</td>
+<td>她向我坦承 她从未爱过艾林公爵</td>
+</tr>
+<tr>
+<td>She did as her father commanded, as so many of us have.</td>
+<td>她只是逃不过众多女人的命运 从父命嫁给他</td>
+</tr>
+<tr>
+<td>When the gods finally allowed her to be with Lord Baelish,</td>
+<td>等到终于有机会与贝里席大人厮守终身时</td>
+</tr>
+<tr>
+<td>she was so happy.</td>
+<td>她是那么高兴</td>
+</tr>
+<tr>
+<td>For a time.</td>
+<td>可转瞬即逝</td>
+</tr>
+<tr>
+<td>My aunt was a jealous lady.</td>
+<td>姨妈本性善妒</td>
+</tr>
+<tr>
+<td>She was terrified that Lord Baelish didn't love her anymore.</td>
+<td>她担心贝里席大人不再爱她</td>
+</tr>
+<tr>
+<td>That he would abandon her for a younger woman.</td>
+<td>恋上年轻姑娘 弃她而去</td>
+</tr>
+<tr>
+<td>And then,</td>
+<td>然后</td>
+</tr>
+<tr>
+<td>one day she saw him kiss me.</td>
+<td>有一天她看见贝里席大人亲我</td>
+</tr>
+<tr>
+<td>Lady Sansa.</td>
+<td>珊莎小姐</td>
+</tr>
+<tr>
+<td>It was a peck on the cheek, Lord Royce, nothing more.</td>
+<td>只是亲了下脸颊 仅此而已 罗伊斯大人</td>
+</tr>
+<tr>
+<td>Lord Baelish is my uncle now, in truth, by marriage.</td>
+<td>贝里席大人现在是我姻亲的姨夫</td>
+</tr>
+<tr>
+<td>He's always been so kind to me.</td>
+<td>他一直对我照顾有加</td>
+</tr>
+<tr>
+<td>I was so happy to be here, to be free.</td>
+<td>我喜欢这里 喜欢自由自在</td>
+</tr>
+<tr>
+<td>All because of him.</td>
+<td>这一切都是因为他</td>
+</tr>
+<tr>
+<td>But my aunt turned on me.</td>
+<td>但姨妈容不下我</td>
+</tr>
+<tr>
+<td>She cursed me. Called me a whore.</td>
+<td>她诅咒我 骂我荡妇</td>
+</tr>
+<tr>
+<td>Promised to throw me through the Moon Door.</td>
+<td>还威胁要把我从月门推下去</td>
+</tr>
+<tr>
+<td>When Lord Baelish tried to calm her,</td>
+<td>贝里席大人试图安抚她</td>
+</tr>
+<tr>
+<td>she struck him.</td>
+<td>她便出手打他</td>
+</tr>
+<tr>
+<td>She said she didn't want to live anymore.</td>
+<td>她说她生无可恋</td>
+</tr>
+<tr>
+<td>She stood on the edge of that Moon Door.</td>
+<td>于是她站到月门边沿</td>
+</tr>
+<tr>
+<td>He tried to reason with her.</td>
+<td>贝里席本想劝服她</td>
+</tr>
+<tr>
+<td>Promised her she was the only one he had ever loved,</td>
+<td>还保证今生只爱她一人</td>
+</tr>
+<tr>
+<td>but she stepped through those doors and she was.</td>
+<td>但她还是踏出月门 她</td>
+</tr>
+<tr>
+<td>Shh, it's not your fault, sweet girl.</td>
+<td>好姑娘 这不是你的错</td>
+</tr>
+<tr>
+<td>It's not your fault.</td>
+<td>不是你的错</td>
+</tr>
+<tr>
+<td>You could see it in the way she raised that boy.</td>
+<td>你也看到她教子无方</td>
+</tr>
+<tr>
+<td>Feeding him from her own teats when he was 10 years old.</td>
+<td>十岁的孩子还在啃奶头</td>
+</tr>
+<tr>
+<td>Lord Royce! This is hardly the time.</td>
+<td>罗伊斯大人 现在哪是说这事的时候</td>
+</tr>
+<tr>
+<td>Apologies, my lady.</td>
+<td>抱歉 夫人</td>
+</tr>
+<tr>
+<td>And to you as well, Baelish.</td>
+<td>还有贝里席</td>
+</tr>
+<tr>
+<td>We treated you a bit harshly.</td>
+<td>我们先前对你多有责难</td>
+</tr>
+<tr>
+<td>You want justice, Lord Royce.</td>
+<td>罗伊斯大人 您是在秉公执法</td>
+</tr>
+<tr>
+<td>I can hardly complain about that.</td>
+<td>我不敢有怨言</td>
+</tr>
+<tr>
+<td>I want the same.</td>
+<td>我求的也是个公正</td>
+</tr>
+<tr>
+<td>Not much justice to be meted out in suicide, is there?</td>
+<td>自杀这事哪里谈得上公正不公正</td>
+</tr>
+<tr>
+<td>For Lysa, no. But for her son?</td>
+<td>对莱莎谈不上 对她儿子可不尽然</td>
+</tr>
+<tr>
+<td>Only 20 years ago, the knights of the Vale</td>
+<td>二十年前 谷地骑士追随琼恩·艾林</td>
+</tr>
+<tr>
+<td>rode behind Jon Arryn, Ned Stark, Robert Baratheon.</td>
+<td>奈德·史塔克和劳勃·拜拉席恩出谷</td>
+</tr>
+<tr>
+<td>They fought together to overcome the Mad King.</td>
+<td>起兵对抗疯王</td>
+</tr>
+<tr>
+<td>And since then, Arryn and Royce,</td>
+<td>从那以后 艾林 罗伊斯</td>
+</tr>
+<tr>
+<td>Corbray, Waynwood,</td>
+<td>科布瑞 韦伍德</td>
+</tr>
+<tr>
+<td>all the great houses of the Vale watched from the corner.</td>
+<td>谷地各大家族偏安一隅 隔岸观火</td>
+</tr>
+<tr>
+<td>A timid boy at a tavern brawl.</td>
+<td>像是胆小怕事的孩子在酒馆看人打架</td>
+</tr>
+<tr>
+<td>Are you questioning our courage?</td>
+<td>你这是责怪我等贪生怕死吗</td>
+</tr>
+<tr>
+<td>I want to know which side you're on.</td>
+<td>我只想知道你们到底支持谁</td>
+</tr>
+<tr>
+<td>Do you support the Lannisters,</td>
+<td>是杀你故友奈德·史塔克的</td>
+</tr>
+<tr>
+<td>the house that executed your friend Ned Stark?</td>
+<td>兰尼斯特家族吗</td>
+</tr>
+<tr>
+<td>Of course we don't support the damn Lannisters.</td>
+<td>我们当然不是兰尼斯特那边的</td>
+</tr>
+<tr>
+<td>No? Catelyn Stark begged her sister for support and Lysa refused.</td>
+<td>不是 凯特琳·史塔克求助莱莎却遭拒绝</td>
+</tr>
+<tr>
+<td>By staying out of the fray, you've allowed Tywin Lannister</td>
+<td>你们明哲保身 却让泰温·兰尼斯特</td>
+</tr>
+<tr>
+<td>to destroy his rivals on every compass point.</td>
+<td>得以趁机各个击破</td>
+</tr>
+<tr>
+<td>Who stands against him now?</td>
+<td>事到如今谁还能与他为敌</td>
+</tr>
+<tr>
+<td>Who would you have us back, Lord Baelish?</td>
+<td>贝里席大人 那你想让我们拥护谁</td>
+</tr>
+<tr>
+<td>Robb Stark is dead.</td>
+<td>罗柏·史塔克已死</td>
+</tr>
+<tr>
+<td>I'd have you back Robin Arryn,</td>
+<td>我要你们拥护罗宾·艾林</td>
+</tr>
+<tr>
+<td>Lord of the Vale.</td>
+<td>谷地主君</td>
+</tr>
+<tr>
+<td>Robin Arryn is a sickly little boy.</td>
+<td>他只是个羸弱的小孩子</td>
+</tr>
+<tr>
+<td>And sickly little boys sometimes become powerful men.</td>
+<td>再羸弱也可以长大成人</td>
+</tr>
+<tr>
+<td>More often they die young.</td>
+<td>幼年早夭可是常事</td>
+</tr>
+<tr>
+<td>I adored Lysa with all my heart.</td>
+<td>我虽钟情于莱莎</td>
+</tr>
+<tr>
+<td>But she loved her son so much, she became overprotective.</td>
+<td>可她护子心切 溺爱过头</td>
+</tr>
+<tr>
+<td>He needs to learn how to swing a sword.</td>
+<td>他要学习如何使剑</td>
+</tr>
+<tr>
+<td>How to ride a horse.</td>
+<td>如何骑马</td>
+</tr>
+<tr>
+<td>-Aye, it's time. -Yes, it's time.</td>
+<td>-没错 是时候了 -正是时候</td>
+</tr>
+<tr>
+<td>Time for him to tour the Vale,</td>
+<td>让他游历谷地</td>
+</tr>
+<tr>
+<td>to visit all the castles in his domain.</td>
+<td>巡视治下的各家城堡</td>
+</tr>
+<tr>
+<td>Time for Robin to leave the nest.</td>
+<td>罗宾离巢的时候到了</td>
+</tr>
+<tr>
+<td>Ser Barristan.</td>
+<td>巴利斯坦爵士</td>
+</tr>
+<tr>
+<td>Yes?</td>
+<td>何事</td>
+</tr>
+<tr>
+<td>Who sent you?</td>
+<td>谁派你来的</td>
+</tr>
+<tr>
+<td>-Ser Barristan. -Ser Jorah.</td>
+<td>-巴利斯坦爵士 -乔拉爵士</td>
+</tr>
+<tr>
+<td>Have I forgotten a council meeting?</td>
+<td>是我忘了去开会吗</td>
+</tr>
+<tr>
+<td>No.</td>
+<td>不是</td>
+</tr>
+<tr>
+<td>What's this?</td>
+<td>这是什么</td>
+</tr>
+<tr>
+<td>A royal pardon</td>
+<td>赦免书</td>
+</tr>
+<tr>
+<td>signed by Robert Baratheon.</td>
+<td>劳勃·拜拉席恩签署的</td>
+</tr>
+<tr>
+<td>You spied on her.</td>
+<td>你是来监视她的</td>
+</tr>
+<tr>
+<td>Who gave you this?</td>
+<td>这是谁给你的</td>
+</tr>
+<tr>
+<td>Does it matter?</td>
+<td>重要吗</td>
+</tr>
+<tr>
+<td>Have you told her?</td>
+<td>你告诉她了吗</td>
+</tr>
+<tr>
+<td>I wanted to tell you first, man-to-man,</td>
+<td>我要先与你对峙 光明正大</td>
+</tr>
+<tr>
+<td>rather than go behind your back.</td>
+<td>而不是背着你告密</td>
+</tr>
+<tr>
+<td>Let me speak with her in private.</td>
+<td>让我找她单独谈谈</td>
+</tr>
+<tr>
+<td>You'll never be alone with her again.</td>
+<td>你永远别想单独见她了</td>
+</tr>
+<tr>
+<td>Why did the usurper pardon you?</td>
+<td>篡夺者为什么赦免你</td>
+</tr>
+<tr>
+<td>If we could speak alone.</td>
+<td>我们最好能单独谈谈</td>
+</tr>
+<tr>
+<td>No, speak to me here.</td>
+<td>不行 就在这里说</td>
+</tr>
+<tr>
+<td>Explain it to me.</td>
+<td>给我个说法</td>
+</tr>
+<tr>
+<td>Who do you think sent this to Meereen?</td>
+<td>您认为这信是谁送到弥林来的</td>
+</tr>
+<tr>
+<td>Who profits?</td>
+<td>谁从中得利</td>
+</tr>
+<tr>
+<td>This is the work of Tywin Lannister.</td>
+<td>这是泰温·兰尼斯特的诡计</td>
+</tr>
+<tr>
+<td>He wants to divide us.</td>
+<td>他想离间我们</td>
+</tr>
+<tr>
+<td>If we're fighting each other, we're not fighting him.</td>
+<td>如果我们勾心斗角 他便可高忱无忧</td>
+</tr>
+<tr>
+<td>The pardon was signed the year we met.</td>
+<td>赦免书是我们相见那年签署的</td>
+</tr>
+<tr>
+<td>Why were you pardoned?</td>
+<td>你为什么得到赦免</td>
+</tr>
+<tr>
+<td>Unless you're saying this document was forged.</td>
+<td>别告诉我这份文书是伪造的</td>
+</tr>
+<tr>
+<td>It is not forged.</td>
+<td>并非伪造</td>
+</tr>
+<tr>
+<td>Why, then?</td>
+<td>那为什么呢</td>
+</tr>
+<tr>
+<td>I sent letters to Varys,</td>
+<td>我写了几封信给瓦里斯</td>
+</tr>
+<tr>
+<td>the spymaster of King's Landing.</td>
+<td>君临的那个情报总管</td>
+</tr>
+<tr>
+<td>What was the content of these letters?</td>
+<td>信里写了些什么</td>
+</tr>
+<tr>
+<td>-Information. -What information?</td>
+<td>-情报 -什么情报</td>
+</tr>
+<tr>
+<td>When you and Viserys arrived in Pentos.</td>
+<td>您和韦赛里斯到达潘托斯的日期</td>
+</tr>
+<tr>
+<td>His plan to marry you to Khal Drogo.</td>
+<td>他把您嫁给卓戈卡奥的计划</td>
+</tr>
+<tr>
+<td>When you were married.</td>
+<td>你们的结婚日期</td>
+</tr>
+<tr>
+<td>When your brother died.</td>
+<td>您哥哥的死期</td>
+</tr>
+<tr>
+<td>You told him I was carrying Drogo's child?</td>
+<td>你告诉他我怀了卓戈的骨肉</td>
+</tr>
+<tr>
+<td>-I. -Yes or no?</td>
+<td>-我 -"是"或"不是"</td>
+</tr>
+<tr>
+<td>-Khaleesi. -Don't call me that.</td>
+<td>-卡丽熙 -别再这么叫我</td>
+</tr>
+<tr>
+<td>Did you tell him I was carrying Drogo's child?</td>
+<td>你是不是告诉他我怀了卓戈的骨肉</td>
+</tr>
+<tr>
+<td>Yes.</td>
+<td>是</td>
+</tr>
+<tr>
+<td>That wine merchant tried to poison me,</td>
+<td>正是因为你给出的情报</td>
+</tr>
+<tr>
+<td>because of your information.</td>
+<td>那个酒贩子才来毒害我</td>
+</tr>
+<tr>
+<td>I stopped you from drinking his wine.</td>
+<td>我为您挡下了那杯酒</td>
+</tr>
+<tr>
+<td>Because you knew it was poisoned.</td>
+<td>因为你知道酒里下了毒</td>
+</tr>
+<tr>
+<td>I suspected.</td>
+<td>我只是怀疑</td>
+</tr>
+<tr>
+<td>You betrayed me</td>
+<td>你从一开始</td>
+</tr>
+<tr>
+<td>from the first.</td>
+<td>就背叛了我</td>
+</tr>
+<tr>
+<td>Forgive me.</td>
+<td>请原谅我</td>
+</tr>
+<tr>
+<td>I never meant.</td>
+<td>我从没想过</td>
+</tr>
+<tr>
+<td>please, Khaleesi, forgive me.</td>
+<td>求求您 卡丽熙 原谅我吧</td>
+</tr>
+<tr>
+<td>You sold my secrets to the man who killed my father</td>
+<td>你把我的秘密出卖给杀死我父亲</td>
+</tr>
+<tr>
+<td>-and stole my brother's throne. -I have protected you.</td>
+<td>-窃取我兄长王位的人 -我保护您</td>
+</tr>
+<tr>
+<td>-Fought for you. Killed for you. -And you want me to forgive you?</td>
+<td>-我为您而战 为您杀戮 -你还要我原谅</td>
+</tr>
+<tr>
+<td>I have loved you.</td>
+<td>我爱过您</td>
+</tr>
+<tr>
+<td>Love?</td>
+<td>爱</td>
+</tr>
+<tr>
+<td>Love? How can you say that to me?</td>
+<td>爱 你竟敢说出这个字眼</td>
+</tr>
+<tr>
+<td>Any other man, and I would have you executed.</td>
+<td>要换了别人 我必定砍了他的脑袋</td>
+</tr>
+<tr>
+<td>But you, I do not want you in my city</td>
+<td>可是你 我不想在这座城里看到你</td>
+</tr>
+<tr>
+<td>dead or alive.</td>
+<td>无论生死</td>
+</tr>
+<tr>
+<td>Go back to your masters in King's Landing.</td>
+<td>回你君临的主子那里</td>
+</tr>
+<tr>
+<td>Collect your pardon if you can.</td>
+<td>拿出你的本事 求他们赦免吧</td>
+</tr>
+<tr>
+<td>Daenerys, please.</td>
+<td>丹妮莉丝 求求您</td>
+</tr>
+<tr>
+<td>Don't ever presume to touch me again</td>
+<td>永远不要再试图碰我</td>
+</tr>
+<tr>
+<td>or speak my name.</td>
+<td>喊我的名字</td>
+</tr>
+<tr>
+<td>You have until dusk to collect your things</td>
+<td>傍晚之前 收拾好东西</td>
+</tr>
+<tr>
+<td>and leave this city.</td>
+<td>离开这座城市</td>
+</tr>
+<tr>
+<td>If you're found in Meereen past break of day,</td>
+<td>如果天亮后 我发现你仍在弥林</td>
+</tr>
+<tr>
+<td>I'll have your head thrown into Slaver's Bay.</td>
+<td>别怪我砍下你的人头扔进奴隶湾</td>
+</tr>
+<tr>
+<td>Go.</td>
+<td>走吧</td>
+</tr>
+<tr>
+<td>Now.</td>
+<td>快走</td>
+</tr>
+<tr>
+<td>Moat Cailin is yours, Father.</td>
+<td>卡林湾是您的了 父亲大人</td>
+</tr>
+<tr>
+<td>Walk with me.</td>
+<td>跟我来</td>
+</tr>
+<tr>
+<td>Has there been any word from Locke?</td>
+<td>洛克那儿有消息吗</td>
+</tr>
+<tr>
+<td>No.</td>
+<td>没有</td>
+</tr>
+<tr>
+<td>Unimportant.</td>
+<td>无关紧要了</td>
+</tr>
+<tr>
+<td>A cripple, a young boy.</td>
+<td>一个瘸子 一个小屁孩</td>
+</tr>
+<tr>
+<td>None of the northern lords have seen them.</td>
+<td>北境的领主们都没见到他们</td>
+</tr>
+<tr>
+<td>Dead most likely.</td>
+<td>八成是死了</td>
+</tr>
+<tr>
+<td>Most of the ironborn have fled the North.</td>
+<td>很多铁种已经逃离北境</td>
+</tr>
+<tr>
+<td>Now more will follow, thanks to you.</td>
+<td>而多亏你 又有很多铁种要跑了</td>
+</tr>
+<tr>
+<td>Tell me, what you see?</td>
+<td>告诉我 你看到了什么</td>
+</tr>
+<tr>
+<td>Moors, fields, hills.</td>
+<td>荒野 田地 山丘</td>
+</tr>
+<tr>
+<td>Tell me, what you see?</td>
+<td>告诉我 你看到了什么</td>
+</tr>
+<tr>
+<td>Nothing.</td>
+<td>什么也没有</td>
+</tr>
+<tr>
+<td>Not nothing.</td>
+<td>这不是什么也没有</td>
+</tr>
+<tr>
+<td>The North.</td>
+<td>而是整个北境</td>
+</tr>
+<tr>
+<td>Ride 700 miles that way, you're still in the North.</td>
+<td>你往这个方向骑上七百哩 仍在北境之中</td>
+</tr>
+<tr>
+<td>400 miles that way.</td>
+<td>这边可以骑四百哩</td>
+</tr>
+<tr>
+<td>300 miles that way.</td>
+<td>那边三百哩</td>
+</tr>
+<tr>
+<td>The North is larger than the other six kingdoms combined.</td>
+<td>北境的领土比其余六国的总和还要大</td>
+</tr>
+<tr>
+<td>And I am the Warden of the North.</td>
+<td>而我现在是北境守护</td>
+</tr>
+<tr>
+<td>The North is mine.</td>
+<td>北境是我的了</td>
+</tr>
+<tr>
+<td>Now tell me, what is your name?</td>
+<td>告诉我 你叫什么</td>
+</tr>
+<tr>
+<td>Ramsay Snow.</td>
+<td>拉姆斯·雪诺</td>
+</tr>
+<tr>
+<td>No, not Ramsay Snow.</td>
+<td>不对 不是拉姆斯·雪诺</td>
+</tr>
+<tr>
+<td>Open it.</td>
+<td>打开看</td>
+</tr>
+<tr>
+<td>From this day until your last day,</td>
+<td>从今日起 直至你死去</td>
+</tr>
+<tr>
+<td>you are Ramsay Bolton,</td>
+<td>你是拉姆斯·波顿</td>
+</tr>
+<tr>
+<td>son of Roose Bolton, Warden of the North.</td>
+<td>北境守护卢斯·波顿之子</td>
+</tr>
+<tr>
+<td>You honor me.</td>
+<td>您赐予我荣耀</td>
+</tr>
+<tr>
+<td>I swear I will uphold your name</td>
+<td>我誓将不负您的英名</td>
+</tr>
+<tr>
+<td>and your tradition.</td>
+<td>继承您的传统</td>
+</tr>
+<tr>
+<td>I will be worthy of you, Father,</td>
+<td>我决不令您失望 父亲大人</td>
+</tr>
+<tr>
+<td>I promise.</td>
+<td>我郑重发誓</td>
+</tr>
+<tr>
+<td>Come, Reek, I'll be needing a bath.</td>
+<td>快点 臭佬 我要洗澡了</td>
+</tr>
+<tr>
+<td>Yes?</td>
+<td>请进</td>
+</tr>
+<tr>
+<td>First time I saw you, you were just a child.</td>
+<td>我第一次见你时 你还是个孩子</td>
+</tr>
+<tr>
+<td>A girl from the North come to the capital for the first time.</td>
+<td>一个刚从北境来到都城的小姑娘</td>
+</tr>
+<tr>
+<td>Not a child any longer.</td>
+<td>而现在已经长大了</td>
+</tr>
+<tr>
+<td>Why did you help me?</td>
+<td>你为什么要帮我</td>
+</tr>
+<tr>
+<td>They would have thrown you through the Moon Door</td>
+<td>要是他们发现你有罪</td>
+</tr>
+<tr>
+<td>if they found you guilty.</td>
+<td>就会把你扔出月门</td>
+</tr>
+<tr>
+<td>That's not an answer.</td>
+<td>只怕不是因为这个吧</td>
+</tr>
+<tr>
+<td>If they'd have executed you,</td>
+<td>他们如果处决了你</td>
+</tr>
+<tr>
+<td>what would they have done with me?</td>
+<td>接下来会怎么对待我呢</td>
+</tr>
+<tr>
+<td>I don't know.</td>
+<td>我不知道</td>
+</tr>
+<tr>
+<td>Neither do I.</td>
+<td>我也是</td>
+</tr>
+<tr>
+<td>Better to gamble on the man you know</td>
+<td>与其押宝给陌生人</td>
+</tr>
+<tr>
+<td>than the strangers you don't?</td>
+<td>还不如在熟人身上赌一把</td>
+</tr>
+<tr>
+<td>And you think you know me?</td>
+<td>你自认为了解我吗</td>
+</tr>
+<tr>
+<td>I know what you want.</td>
+<td>我知道你想要什么</td>
+</tr>
+<tr>
+<td>Do you?</td>
+<td>是吗</td>
+</tr>
+<tr>
+<td>I thought it'd make me happy,</td>
+<td>我以为我会因此而开心</td>
+</tr>
+<tr>
+<td>but it doesn't. Not really.</td>
+<td>但没有 我不觉得开心</td>
+</tr>
+<tr>
+<td>Nothing makes you happy.</td>
+<td>没什么能让你开心了</td>
+</tr>
+<tr>
+<td>-Lots of things make me happy. -Like what?</td>
+<td>-有很多事让我开心 -比如说</td>
+</tr>
+<tr>
+<td>Killing Polliver, killing Rorge.</td>
+<td>杀波利佛和罗尔杰</td>
+</tr>
+<tr>
+<td>So you're sad because you didn't get to kill Joffrey yourself.</td>
+<td>所以你难过的是没有亲手杀了乔佛里</td>
+</tr>
+<tr>
+<td>Is that it?</td>
+<td>是这样吗</td>
+</tr>
+<tr>
+<td>At least I could have been there to watch.</td>
+<td>至少我想要亲眼看着他死</td>
+</tr>
+<tr>
+<td>I wanted to see the look in his eyes when he knew it was over.</td>
+<td>我想看到他那绝望的眼神</td>
+</tr>
+<tr>
+<td>Aye, nothing in the world beats that look.</td>
+<td>可不 那种眼神最让人舒坦了</td>
+</tr>
+<tr>
+<td>You protected him for most of his life.</td>
+<td>他大半辈子都是你在保护</td>
+</tr>
+<tr>
+<td>You think you could have saved him?</td>
+<td>你觉得你当时救得了他吗</td>
+</tr>
+<tr>
+<td>I wasn't the damn wine taster.</td>
+<td>我又不是替他尝酒的</td>
+</tr>
+<tr>
+<td>Little shit deserved to die, but poison,</td>
+<td>那小混蛋是该死 但下毒</td>
+</tr>
+<tr>
+<td>poison's a woman's weapon.</td>
+<td>下毒是女人的伎俩</td>
+</tr>
+<tr>
+<td>Men kill with steel.</td>
+<td>男人拿刀剑取命</td>
+</tr>
+<tr>
+<td>That's your stupid pride talking.</td>
+<td>那是你自以为是的蠢话</td>
+</tr>
+<tr>
+<td>It's why you'll never be a great killer.</td>
+<td>所以这辈子你都当不了伟大的杀手</td>
+</tr>
+<tr>
+<td>I'd have killed Joffrey with a chicken bone if I had to.</td>
+<td>逼不得已我可以拿鸡骨头杀了乔佛里</td>
+</tr>
+<tr>
+<td>I'd pay good money to see that.</td>
+<td>我愿意花大价钱到场观赏</td>
+</tr>
+<tr>
+<td>You should have let me burn it.</td>
+<td>你应该让我帮你烧一下</td>
+</tr>
+<tr>
+<td>It's a fleabite.</td>
+<td>区区小伤</td>
+</tr>
+<tr>
+<td>That fleabite's got you walking a lot slower than you used to.</td>
+<td>区区小伤已经大大拖慢了你的步伐</td>
+</tr>
+<tr>
+<td>Well, we won't have to walk too much further.</td>
+<td>还好前面没多远了</td>
+</tr>
+<tr>
+<td>You really think my aunt will pay for me?</td>
+<td>你真觉得我姨妈会赎我吗</td>
+</tr>
+<tr>
+<td>Aye, she'll pay.</td>
+<td>是 她肯定会</td>
+</tr>
+<tr>
+<td>I've never even met her.</td>
+<td>我从来没见过她</td>
+</tr>
+<tr>
+<td>Doesn't matter. You're her blood.</td>
+<td>不要紧 你是她的血亲</td>
+</tr>
+<tr>
+<td>Family, honor, all that horseshit.</td>
+<td>还有家族 荣耀 尽是些狗屁道理</td>
+</tr>
+<tr>
+<td>It's all you lords and ladies ever talk about.</td>
+<td>你们那帮王公贵族整天谈论这些东西</td>
+</tr>
+<tr>
+<td>I'm not a lady.</td>
+<td>我不是王公贵族</td>
+</tr>
+<tr>
+<td>Who would pass the Bloody Gate?</td>
+<td>欲过血门者何人</td>
+</tr>
+<tr>
+<td>The bloody Hound, Sandor Clegane.</td>
+<td>血淋淋的猎狗 桑铎·克里冈</td>
+</tr>
+<tr>
+<td>And his</td>
+<td>还有他的</td>
+</tr>
+<tr>
+<td>traveling companion Arya Stark,</td>
+<td>旅伴艾莉亚·史塔克</td>
+</tr>
+<tr>
+<td>niece of your lady Lysa Arryn.</td>
+<td>莱莎·艾林夫人的外甥女</td>
+</tr>
+<tr>
+<td>Then I offer my condolences.</td>
+<td>本人深表哀悼</td>
+</tr>
+<tr>
+<td>Lady Arryn died.</td>
+<td>艾林夫人已死</td>
+</tr>
+<tr>
+<td>Three days ago.</td>
+<td>就在三天前</td>
+</tr>
+<tr>
+<td>I've never left home before, Uncle Petyr.</td>
+<td>我从未出过家门 培提尔叔叔</td>
+</tr>
+<tr>
+<td>-I'm afraid to leave. -You shouldn't be.</td>
+<td>-我不敢离开 -你不必害怕</td>
+</tr>
+<tr>
+<td>The Lord of the Vale belongs in the Eyrie, Mother said.</td>
+<td>母亲说 谷地主君属于鹰巢城</td>
+</tr>
+<tr>
+<td>She said it's not safe outside.</td>
+<td>她说外面不安全</td>
+</tr>
+<tr>
+<td>It wasn't safe for her inside.</td>
+<td>家里对她而言也不安全</td>
+</tr>
+<tr>
+<td>People die at their dinner tables.</td>
+<td>人们有的命丧餐桌</td>
+</tr>
+<tr>
+<td>They die in their beds.</td>
+<td>有的命丧床榻</td>
+</tr>
+<tr>
+<td>They die squatting over their chamber pots.</td>
+<td>有的蹲在夜壶上就没了命</td>
+</tr>
+<tr>
+<td>Everybody dies sooner or later.</td>
+<td>每个人早晚都会死</td>
+</tr>
+<tr>
+<td>Don't worry about your death.</td>
+<td>不要担忧死亡</td>
+</tr>
+<tr>
+<td>Worry about your life.</td>
+<td>操心你的生活吧</td>
+</tr>
+<tr>
+<td>Take charge of your life</td>
+<td>活着的每一天</td>
+</tr>
+<tr>
+<td>for as long as it lasts.</td>
+<td>都要好好把握</td>
+</tr>
+<tr>
+<td>That is what it means to be Lord of the Vale.</td>
+<td>这才是身为谷地主君的意义所在</td>
+</tr>
+<tr>
+<td>Shall we go?</td>
+<td>我们可以出发了吗</td>
+</tr>
+<tr>
+<td>Wine always helps.</td>
+<td>酒永远是最管用的</td>
+</tr>
+<tr>
+<td>I thank you for it.</td>
+<td>有劳了</td>
+</tr>
+<tr>
+<td>Trial by combat.</td>
+<td>比武审判</td>
+</tr>
+<tr>
+<td>Deciding a man's guilt or innocence</td>
+<td>在诸神的见证下</td>
+</tr>
+<tr>
+<td>in the eyes of the gods</td>
+<td>让两个人互相残杀</td>
+</tr>
+<tr>
+<td>by having two other men hack each other to pieces.</td>
+<td>来判定另一个人是否有罪</td>
+</tr>
+<tr>
+<td>Tells you something about the gods.</td>
+<td>这就是诸神的真面目</td>
+</tr>
+<tr>
+<td>How much longer?</td>
+<td>还有多久</td>
+</tr>
+<tr>
+<td>Soon.</td>
+<td>快了</td>
+</tr>
+<tr>
+<td>Do you think Oberyn has a chance?</td>
+<td>你觉得奥柏伦会赢吗</td>
+</tr>
+<tr>
+<td>The Red Viper of Dorne.</td>
+<td>多恩的红毒蛇</td>
+</tr>
+<tr>
+<td>You don't get a name like that unless you're deadly, right?</td>
+<td>要是不厉害 谁给他取这个名号 是吧</td>
+</tr>
+<tr>
+<td>I've never seen him fight.</td>
+<td>我没见识过他的身手</td>
+</tr>
+<tr>
+<td>Oh, he's going to die. I'm going to die.</td>
+<td>天哪 他要没命了 我也要没命了</td>
+</tr>
+<tr>
+<td>Oberyn believes in himself.</td>
+<td>奥柏伦很有自信</td>
+</tr>
+<tr>
+<td>That's putting it mildly.</td>
+<td>说得轻巧罢了</td>
+</tr>
+<tr>
+<td>What's the punishment for regicide?</td>
+<td>弑君罪会处以何种刑罚</td>
+</tr>
+<tr>
+<td>Drawing and quartering? Hanging?</td>
+<td>五马分尸 绞刑</td>
+</tr>
+<tr>
+<td>-Breaking at the wheel? -Beheading.</td>
+<td>-碾刑 -砍头</td>
+</tr>
+<tr>
+<td>Seems rather ordinary.</td>
+<td>太平常了吧</td>
+</tr>
+<tr>
+<td>And he was my nephew as well, so what is that?</td>
+<td>他还是我的外甥 那算什么呢</td>
+</tr>
+<tr>
+<td>Fratricide is brothers.</td>
+<td>杀兄弟是弑兄</td>
+</tr>
+<tr>
+<td>Filicide is sons.</td>
+<td>杀儿子是弑子</td>
+</tr>
+<tr>
+<td>Nepoticide. That's the one.</td>
+<td>弑外甥 就它了</td>
+</tr>
+<tr>
+<td>Matricide, patricide,</td>
+<td>弑母 弑父</td>
+</tr>
+<tr>
+<td>infanticide, suicide.</td>
+<td>杀婴 自杀</td>
+</tr>
+<tr>
+<td>There's no kind of killing that doesn't have its own word.</td>
+<td>杀什么都有专门的叫法</td>
+</tr>
+<tr>
+<td>Cousins.</td>
+<td>杀表亲没有</td>
+</tr>
+<tr>
+<td>Cousins, you're right.</td>
+<td>表亲 对啊</td>
+</tr>
+<tr>
+<td>There is no word for cousin killing.</td>
+<td>没有专门说杀表亲的词儿</td>
+</tr>
+<tr>
+<td>Well done.</td>
+<td>漂亮</td>
+</tr>
+<tr>
+<td>Do you remember cousin Orson? Orson Lannister?</td>
+<td>你还记得我们的表亲欧森·兰尼斯特吗</td>
+</tr>
+<tr>
+<td>Of course. Wet-nurse dropped him on his head.</td>
+<td>当然 奶妈不小心把他的脑袋撞在地上</td>
+</tr>
+<tr>
+<td>-Left him simple. -Simple?</td>
+<td>-他成了傻子 -傻子</td>
+</tr>
+<tr>
+<td>Used to sit all day in the garden.</td>
+<td>成天坐在花园里</td>
+</tr>
+<tr>
+<td>Crushing beetles with a rock.</td>
+<td>拿石头砸甲虫</td>
+</tr>
+<tr>
+<td>Nothing made him happier.</td>
+<td>这种事最让他开心了</td>
+</tr>
+<tr>
+<td>Nothing made you happier.</td>
+<td>这种事最让你开心了</td>
+</tr>
+<tr>
+<td>You'd think being tormented from birth</td>
+<td>你是不是觉得自己出身悲惨</td>
+</tr>
+<tr>
+<td>would have given you some affinity for the afflicted.</td>
+<td>所以跟这倒霉家伙有点同病相怜</td>
+</tr>
+<tr>
+<td>On the contrary. Laughing at another person's misery</td>
+<td>恰恰相反 只有取笑他人的不幸</td>
+</tr>
+<tr>
+<td>was the only thing that made me feel like everyone else.</td>
+<td>我才觉得我和大家没有区别</td>
+</tr>
+<tr>
+<td>The joke wore thin, though.</td>
+<td>后来就没意思了</td>
+</tr>
+<tr>
+<td>For you. You drifted away.</td>
+<td>对你是的 你逐渐疏远了</td>
+</tr>
+<tr>
+<td>I had other interests.</td>
+<td>我有了别的兴趣</td>
+</tr>
+<tr>
+<td>Yes, other interests.</td>
+<td>是啊 别的兴趣</td>
+</tr>
+<tr>
+<td>But I stayed with Orson.</td>
+<td>但我还守着欧森</td>
+</tr>
+<tr>
+<td>Why?</td>
+<td>为什么</td>
+</tr>
+<tr>
+<td>I was curious.</td>
+<td>我好奇啊</td>
+</tr>
+<tr>
+<td>Why was he smashing all those beetles?</td>
+<td>他为什么要砸甲虫呢</td>
+</tr>
+<tr>
+<td>What did he get out of it?</td>
+<td>他从中得到什么呢</td>
+</tr>
+<tr>
+<td>First thing I did was ask him.</td>
+<td>我刚开始跑去问他</td>
+</tr>
+<tr>
+<td>"Orson, why are you smashing all those beetles?"</td>
+<td>"欧森 你为什么要砸甲虫"</td>
+</tr>
+<tr>
+<td>He gave me an answer. "Smash the beetles.</td>
+<td>他给了我一个答案 "砸甲虫</td>
+</tr>
+<tr>
+<td>Smash 'em."</td>
+<td>砸死它们"</td>
+</tr>
+<tr>
+<td>I wasn't deterred.</td>
+<td>我没有就此作罢</td>
+</tr>
+<tr>
+<td>I was the smartest person I knew.</td>
+<td>我可是脑子最灵光的</td>
+</tr>
+<tr>
+<td>Certainly I had the wherewithal to unravel the mysteries</td>
+<td>不就是藏在一个傻子心里面的谜团吗</td>
+</tr>
+<tr>
+<td>that lay at the heart of a moron.</td>
+<td>我肯定有办法解开</td>
+</tr>
+<tr>
+<td>So I went to Maester Volarik's library.</td>
+<td>于是我来到沃拉里克学士的藏书室</td>
+</tr>
+<tr>
+<td>Volarik. Tried to touch me once.</td>
+<td>沃拉里克 有一回他想摸我</td>
+</tr>
+<tr>
+<td>Turns out, far too much has been written about great men</td>
+<td>结果发现 长篇累牍的都是讲大人物</td>
+</tr>
+<tr>
+<td>and not nearly enough about morons.</td>
+<td>根本不提傻子的事情</td>
+</tr>
+<tr>
+<td>Doesn't seem right.</td>
+<td>这不应该啊</td>
+</tr>
+<tr>
+<td>In any case, I found nothing</td>
+<td>总之 我没发现是什么</td>
+</tr>
+<tr>
+<td>that illuminated the nature of Orson's affliction</td>
+<td>激发了欧森虐杀的本性</td>
+</tr>
+<tr>
+<td>or the reason behind his relentless beetle slaughter.</td>
+<td>他无情屠戮甲虫背后的情由</td>
+</tr>
+<tr>
+<td>So I went back to the source.</td>
+<td>于是我回来找凶手本人</td>
+</tr>
+<tr>
+<td>I may not have been able to speak with Orson,</td>
+<td>虽然我没法直接问欧森</td>
+</tr>
+<tr>
+<td>but I could observe him, watch him,</td>
+<td>但我可以观察他 盯着他</td>
+</tr>
+<tr>
+<td>the way men watch animals</td>
+<td>就像我们观察动物</td>
+</tr>
+<tr>
+<td>to come to a deeper understanding of their behavior.</td>
+<td>为的是深入地理解它们的行为</td>
+</tr>
+<tr>
+<td>And as I watched,</td>
+<td>我观察他的同时</td>
+</tr>
+<tr>
+<td>I became more and more sure of it.</td>
+<td>我越来越笃信一点</td>
+</tr>
+<tr>
+<td>There was something happening there.</td>
+<td>那儿肯定出了什么状况</td>
+</tr>
+<tr>
+<td>His face was like the page of a book</td>
+<td>他的脸就像一本摊开的书</td>
+</tr>
+<tr>
+<td>written in a language I didn't understand.</td>
+<td>可惜我不懂书里所用的语言</td>
+</tr>
+<tr>
+<td>But he wasn't mindless. He had his reasons.</td>
+<td>他不是没头脑 他自有道理</td>
+</tr>
+<tr>
+<td>And I became possessed with knowing what they were.</td>
+<td>我着了魔似的想搞清楚是什么道理</td>
+</tr>
+<tr>
+<td>I began to spend inordinate amounts of time watching him.</td>
+<td>于是花了大量的时间观察他</td>
+</tr>
+<tr>
+<td>I would eat my lunch in the garden,</td>
+<td>我在花园里吃午饭</td>
+</tr>
+<tr>
+<td>chewing my mutton to the music of "Kuuh".</td>
+<td>就着"喀喀喀"的节奏嚼羊肉</td>
+</tr>
+<tr>
+<td>And when I wasn't watching him, I was thinking about him.</td>
+<td>不观察他的时候 我满脑子都在想他</td>
+</tr>
+<tr>
+<td>Father droned on about the family legacy</td>
+<td>父亲执迷于家族的传承</td>
+</tr>
+<tr>
+<td>and I thought about Orson's beetles.</td>
+<td>我则沉浸于欧森的甲虫</td>
+</tr>
+<tr>
+<td>I read the histories of Targaryen conquests.</td>
+<td>我阅读坦格利安的征服史</td>
+</tr>
+<tr>
+<td>Did I hear dragon wings? No.</td>
+<td>我听见巨龙振翅的声音了吗 没有</td>
+</tr>
+<tr>
+<td>I heard "Kuuh".</td>
+<td>我只听见"喀喀喀"</td>
+</tr>
+<tr>
+<td>And I still couldn't figure out why he was doing it.</td>
+<td>我还是搞不懂他为什么做这种事</td>
+</tr>
+<tr>
+<td>And I had to know, because it was horrible</td>
+<td>可我必须知道 因为这太可怕了</td>
+</tr>
+<tr>
+<td>that all these beetles should be dying for no reason.</td>
+<td>那么多甲虫不能无缘无故地死掉</td>
+</tr>
+<tr>
+<td>Every day, around the world,</td>
+<td>每一天 这世上都有</td>
+</tr>
+<tr>
+<td>men, women, and children are murdered by the score.</td>
+<td>很多男女老少死于非命</td>
+</tr>
+<tr>
+<td>Who gives a dusty fuck about a bunch of beetles?</td>
+<td>谁管那群甲虫是为什么死的</td>
+</tr>
+<tr>
+<td>I know, I know. But still, it filled me with dread.</td>
+<td>我知道 我知道 可我就是害怕</td>
+</tr>
+<tr>
+<td>Piles and piles of them, years and years of them.</td>
+<td>一群又一群甲虫 一年又一年过去</td>
+</tr>
+<tr>
+<td>How many countless living crawling things</td>
+<td>多少爬地而行的小小生灵</td>
+</tr>
+<tr>
+<td>smashed and dried out and returned to the dirt?</td>
+<td>粉身碎骨 化为齑粉 重归泥土</td>
+</tr>
+<tr>
+<td>In my dreams I found myself</td>
+<td>我梦见自己</td>
+</tr>
+<tr>
+<td>standing on a beach made of beetle husks</td>
+<td>站在甲虫壳堆成的海滩上</td>
+</tr>
+<tr>
+<td>stretching as far as the eye could see.</td>
+<td>放眼望去 无边无垠</td>
+</tr>
+<tr>
+<td>I woke up crying,</td>
+<td>我哭着醒来</td>
+</tr>
+<tr>
+<td>weeping for their shattered little bodies.</td>
+<td>为它们碎裂的身体流泪</td>
+</tr>
+<tr>
+<td>I tried to stop Orson once.</td>
+<td>我有一次企图阻止欧森</td>
+</tr>
+<tr>
+<td>He was twice your size.</td>
+<td>他的块头抵你两个</td>
+</tr>
+<tr>
+<td>He just pushed me aside with a "Kuuh"</td>
+<td>他只是"喀"的一声把我推开</td>
+</tr>
+<tr>
+<td>and kept on smashing.</td>
+<td>然后接着砸</td>
+</tr>
+<tr>
+<td>Every day, until that mule</td>
+<td>天天砸 直到那一天</td>
+</tr>
+<tr>
+<td>kicked him in the chest and killed him.</td>
+<td>骡子踢中了他的胸膛 他一命呜呼</td>
+</tr>
+<tr>
+<td>So what do you think?</td>
+<td>你怎么看</td>
+</tr>
+<tr>
+<td>Why did he do it?</td>
+<td>他为什么那样做</td>
+</tr>
+<tr>
+<td>What was it all about?</td>
+<td>到底是怎么回事</td>
+</tr>
+<tr>
+<td>I don't know.</td>
+<td>我不知道</td>
+</tr>
+<tr>
+<td>Good luck today.</td>
+<td>祝你今天好运</td>
+</tr>
+<tr>
+<td>Looks like very light armor.</td>
+<td>您的盔甲太轻薄了吧</td>
+</tr>
+<tr>
+<td>I like to move around.</td>
+<td>我喜欢动作灵便</td>
+</tr>
+<tr>
+<td>You could at least wear a helmet.</td>
+<td>至少你戴顶头盔</td>
+</tr>
+<tr>
+<td>You shouldn't drink before a fight.</td>
+<td>你战斗前不该喝酒</td>
+</tr>
+<tr>
+<td>You learn this during your years in the fighting pits?</td>
+<td>这是你长年累月混斗技场学到的经验吗</td>
+</tr>
+<tr>
+<td>I always drink before a fight.</td>
+<td>我战前必饮酒</td>
+</tr>
+<tr>
+<td>It could get you killed. It could get me killed.</td>
+<td>这会害你送命的 然后连累我送命</td>
+</tr>
+<tr>
+<td>Today is not the day I die.</td>
+<td>今日不是我的死期</td>
+</tr>
+<tr>
+<td>You're going to fight that?</td>
+<td>你要和他打</td>
+</tr>
+<tr>
+<td>I'm going to kill that.</td>
+<td>我要宰了他</td>
+</tr>
+<tr>
+<td>He is the biggest man I've ever seen.</td>
+<td>他是我见过最高大的人</td>
+</tr>
+<tr>
+<td>Size does not matter when you are flat on your back.</td>
+<td>等你躺在地上 块头就不妨事了</td>
+</tr>
+<tr>
+<td>Thank the gods.</td>
+<td>感谢诸神</td>
+</tr>
+<tr>
+<td>In the sight of gods and men,</td>
+<td>在众神和诸位的见证下</td>
+</tr>
+<tr>
+<td>we gather to ascertain</td>
+<td>我们齐聚于此</td>
+</tr>
+<tr>
+<td>the guilt or innocence of this</td>
+<td>见证这个提利昂·兰尼斯特</td>
+</tr>
+<tr>
+<td>man Tyrion Lannister.</td>
+<td>有罪抑或清白</td>
+</tr>
+<tr>
+<td>May the Mother grant them mercy.</td>
+<td>愿圣母慈悲为怀</td>
+</tr>
+<tr>
+<td>May the Father give them such justice as they deserve.</td>
+<td>愿天父主持公义</td>
+</tr>
+<tr>
+<td>And may the Warrior guide the hand,</td>
+<td>愿战士引导两位</td>
+</tr>
+<tr>
+<td>of our champion.</td>
+<td>代理骑士之手</td>
+</tr>
+<tr>
+<td>Don't leave me alone in this world.</td>
+<td>别丢下我一个人</td>
+</tr>
+<tr>
+<td>Never.</td>
+<td>绝不会</td>
+</tr>
+<tr>
+<td>Have they told you who I am?</td>
+<td>他们告诉你我是谁了吗</td>
+</tr>
+<tr>
+<td>Some dead man.</td>
+<td>一个死人</td>
+</tr>
+<tr>
+<td>I am the brother of Elia Martell.</td>
+<td>我是伊莉亚·马泰尔的弟弟</td>
+</tr>
+<tr>
+<td>Do you know why I have come all the way to this stinking</td>
+<td>你知道我为何大老远地跑来这座</td>
+</tr>
+<tr>
+<td>shit-pile of a city?</td>
+<td>臭烘烘的城市</td>
+</tr>
+<tr>
+<td>For you.</td>
+<td>因为你</td>
+</tr>
+<tr>
+<td>I'm going to hear you confess before you die.</td>
+<td>我来听你临死前的忏悔</td>
+</tr>
+<tr>
+<td>You raped my sister.</td>
+<td>你奸了我姐姐</td>
+</tr>
+<tr>
+<td>You murdered her.</td>
+<td>你杀了她</td>
+</tr>
+<tr>
+<td>You killed her children.</td>
+<td>你害了她孩子</td>
+</tr>
+<tr>
+<td>Say it now and we can make this quick.</td>
+<td>现在就说 我们便快一点完事</td>
+</tr>
+<tr>
+<td>Say it.</td>
+<td>说出来</td>
+</tr>
+<tr>
+<td>You raped her.</td>
+<td>你奸了她</td>
+</tr>
+<tr>
+<td>You murdered her.</td>
+<td>你杀了她</td>
+</tr>
+<tr>
+<td>You killed her children.</td>
+<td>你害了她孩子</td>
+</tr>
+<tr>
+<td>You raped her!</td>
+<td>你奸了她</td>
+</tr>
+<tr>
+<td>You murdered her!</td>
+<td>你杀了她</td>
+</tr>
+<tr>
+<td>You killed her children!</td>
+<td>你害了她孩子</td>
+</tr>
+<tr>
+<td>You raped her!</td>
+<td>你奸了她</td>
+</tr>
+<tr>
+<td>You murdered her!</td>
+<td>你杀了她</td>
+</tr>
+<tr>
+<td>You killed her children!</td>
+<td>你害了她孩子</td>
+</tr>
+<tr>
+<td>Wait. Are you dying?</td>
+<td>等等 你要死了吗</td>
+</tr>
+<tr>
+<td>No, no, no.</td>
+<td>不 不 不</td>
+</tr>
+<tr>
+<td>You can't die yet. You haven't confessed.</td>
+<td>你现在不准死 你还没有忏悔</td>
+</tr>
+<tr>
+<td>Say it.</td>
+<td>说出来</td>
+</tr>
+<tr>
+<td>Say her name. Elia Martell.</td>
+<td>说出她的名字 伊莉亚·马泰尔</td>
+</tr>
+<tr>
+<td>You raped her. You killed her children.</td>
+<td>你奸了她 你害了她孩子</td>
+</tr>
+<tr>
+<td>Elia Martell.</td>
+<td>伊莉亚·马泰尔</td>
+</tr>
+<tr>
+<td>Who gave you the order?</td>
+<td>谁下的命令</td>
+</tr>
+<tr>
+<td>Who gave you the order?!</td>
+<td>谁下的命令</td>
+</tr>
+<tr>
+<td>Say her name!</td>
+<td>说出她的名字</td>
+</tr>
+<tr>
+<td>You raped her! You murdered her!</td>
+<td>你奸了她 你杀了她</td>
+</tr>
+<tr>
+<td>You killed her children.</td>
+<td>你害了她孩子</td>
+</tr>
+<tr>
+<td>Say it. Say her name.</td>
+<td>说出来 说出她的名字</td>
+</tr>
+<tr>
+<td>Say it!</td>
+<td>说出来</td>
+</tr>
+<tr>
+<td>Elia Martell.</td>
+<td>伊莉亚·马泰尔</td>
+</tr>
+<tr>
+<td>I killed her children.</td>
+<td>我杀了她的小兔崽子</td>
+</tr>
+<tr>
+<td>Then I raped her.</td>
+<td>接着我操了她</td>
+</tr>
+<tr>
+<td>Then I smashed her head in like this!</td>
+<td>再下来我打碎了她的头颅 就像这样</td>
+</tr>
+<tr>
+<td>The gods have made their will known.</td>
+<td>诸神旨意已明</td>
+</tr>
+<tr>
+<td>Tyrion Lannister,</td>
+<td>提利昂·兰尼斯特</td>
+</tr>
+<tr>
+<td>in the name of King Tommen of the House Baratheon,</td>
+<td>以拜拉席恩家族的</td>
+</tr>
+<tr>
+<td>First of His Name,</td>
+<td>托曼一世之名</td>
+</tr>
+<tr>
+<td>you are hereby sentenced to death.</td>
+<td>我宣判你死刑</td>
+</tr>
+</tbody>
+</table>

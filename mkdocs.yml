@@ -1,0 +1,93 @@
+site_name: Game of Thrones Scripts
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Season 01:
+      - Index: season-01/index.md
+      - Episode 01: season-01/episode-01.md
+      - Episode 02: season-01/episode-02.md
+      - Episode 03: season-01/episode-03.md
+      - Episode 04: season-01/episode-04.md
+      - Episode 05: season-01/episode-05.md
+      - Episode 06: season-01/episode-06.md
+      - Episode 07: season-01/episode-07.md
+      - Episode 08: season-01/episode-08.md
+      - Episode 09: season-01/episode-09.md
+      - Episode 10: season-01/episode-10.md
+  - Season 02:
+      - Index: season-02/index.md
+      - Episode 01: season-02/episode-01.md
+      - Episode 02: season-02/episode-02.md
+      - Episode 03: season-02/episode-03.md
+      - Episode 04: season-02/episode-04.md
+      - Episode 05: season-02/episode-05.md
+      - Episode 06: season-02/episode-06.md
+      - Episode 07: season-02/episode-07.md
+      - Episode 08: season-02/episode-08.md
+      - Episode 09: season-02/episode-09.md
+      - Episode 10: season-02/episode-10.md
+  - Season 03:
+      - Index: season-03/index.md
+      - Episode 01: season-03/episode-01.md
+      - Episode 02: season-03/episode-02.md
+      - Episode 03: season-03/episode-03.md
+      - Episode 04: season-03/episode-04.md
+      - Episode 05: season-03/episode-05.md
+      - Episode 06: season-03/episode-06.md
+      - Episode 07: season-03/episode-07.md
+      - Episode 08: season-03/episode-08.md
+      - Episode 09: season-03/episode-09.md
+      - Episode 10: season-03/episode-10.md
+  - Season 04:
+      - Index: season-04/index.md
+      - Episode 01: season-04/episode-01.md
+      - Episode 02: season-04/episode-02.md
+      - Episode 03: season-04/episode-03.md
+      - Episode 04: season-04/episode-04.md
+      - Episode 05: season-04/episode-05.md
+      - Episode 06: season-04/episode-06.md
+      - Episode 07: season-04/episode-07.md
+      - Episode 08: season-04/episode-08.md
+      - Episode 09: season-04/episode-09.md
+      - Episode 10: season-04/episode-10.md
+  - Season 05:
+      - Index: season-05/index.md
+      - Episode 01: season-05/episode-01.md
+      - Episode 02: season-05/episode-02.md
+      - Episode 03: season-05/episode-03.md
+      - Episode 04: season-05/episode-04.md
+      - Episode 05: season-05/episode-05.md
+      - Episode 06: season-05/episode-06.md
+      - Episode 07: season-05/episode-07.md
+      - Episode 08: season-05/episode-08.md
+      - Episode 09: season-05/episode-09.md
+      - Episode 10: season-05/episode-10.md
+  - Season 06:
+      - Index: season-06/index.md
+      - Episode 01: season-06/episode-01.md
+      - Episode 02: season-06/episode-02.md
+      - Episode 03: season-06/episode-03.md
+      - Episode 04: season-06/episode-04.md
+      - Episode 05: season-06/episode-05.md
+      - Episode 06: season-06/episode-06.md
+      - Episode 07: season-06/episode-07.md
+      - Episode 08: season-06/episode-08.md
+      - Episode 09: season-06/episode-09.md
+      - Episode 10: season-06/episode-10.md
+  - Season 07:
+      - Index: season-07/index.md
+      - Episode 01: season-07/episode-01.md
+      - Episode 02: season-07/episode-02.md
+      - Episode 03: season-07/episode-03.md
+      - Episode 04: season-07/episode-04.md
+      - Episode 05: season-07/episode-05.md
+      - Episode 06: season-07/episode-06.md
+      - Episode 07: season-07/episode-07.md
+  - Season 08:
+      - Index: season-08/index.md
+      - Episode 01: season-08/episode-01.md
+      - Episode 02: season-08/episode-02.md
+      - Episode 03: season-08/episode-03.md
+      - Episode 04: season-08/episode-04.md
+      - Episode 05: season-08/episode-05.md
+      - Episode 06: season-08/episode-06.md

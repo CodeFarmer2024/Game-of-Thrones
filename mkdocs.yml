@@ -20,6 +20,8 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+extra_css:
+  - styles/extra.css
 nav:
   - Home: index.md
   - Season 01:
